@@ -91,7 +91,7 @@ button:hover {
 /* Expense Details */
 .amounts-container {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   margin: 20px 0;
   gap: 20px;
